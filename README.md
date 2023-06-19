@@ -1,2 +1,2 @@
 # java_algorithm
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+Mallang's Algorithm repository, with main language JAVA
