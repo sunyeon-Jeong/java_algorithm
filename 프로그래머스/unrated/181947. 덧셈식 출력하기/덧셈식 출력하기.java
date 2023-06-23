@@ -8,5 +8,6 @@ class Algorithm6 {
         int b = scanner.nextInt();
         
         System.out.println(a + " + " + b + " = " + (a + b));
+        // System.out.printf("%d + %d = %d", a, b, a + b);
     }
 }
