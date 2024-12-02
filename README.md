@@ -1,6 +1,6 @@
-# 👾java_algorithm👾
+# 👾algorithms👾
 ### 1️⃣ Intro
-- Mallang's Algorithm repository, with main language JAVA
+- Mallang's Algorithm repository, with main language JAVA and MySql
 - I solve Algorithms on the "Programmers.co.kr" Website
 
 ### 2️⃣ Contect
