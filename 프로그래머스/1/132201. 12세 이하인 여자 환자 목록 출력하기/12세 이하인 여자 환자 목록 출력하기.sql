@@ -4,7 +4,7 @@ SELECT
     , PT_NO
     , GEND_CD
     , AGE
-    , COALESCE(TLNO, 'NONE') AS TLNO
+    , IFNULL(TLNO, 'NONE') TLNO
 FROM
     PATIENT
 WHERE
